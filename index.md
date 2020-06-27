@@ -2,7 +2,7 @@
     <div class="inner-wrap">
 
     <div id="promo">
-        <h2 class="welcome">Welcome to Cinnamon Square Property Owner&acute;s Association</h2>
+        <h2 class="welcome">Welcome to Cinnamon Square Property Owner&acute;s Association!</h2>
         <p>We're dedicated to improving the quality of life in our neighborhood through community service, a proactive response to livability issues, and developing a sense of togetherness. We hope this site keeps our neighbors informed, active, and in touch. Contact us at <a href="mailto:cspoabkpr@gmail.com">cspoabkpr@gmail.com</a> (Cinnamon Square and Cinnamon on the Hill) or <a href="mailto:cinnamontownhomes@gmail.com">cinnamontownhomes@gmail.com</a> (Cinnamon Townhomes) for more information or if you'd like to see something on our website.</p>
         
         <!--
