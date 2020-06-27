@@ -1,3 +1,7 @@
+---
+layout: home
+title: Home
+---
 <div id="content_main">
     <div class="inner-wrap">
     <div id="promo">
