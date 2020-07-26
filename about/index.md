@@ -20,7 +20,7 @@ CSPOA membership includes the following benefits:
 * trash pickup
 * recycling
 
-## The Board</h3>
+## The Board
 Board documents:
 
 * [CSPOA Organization Chart](/files/CSPOA_Organization_Chart.pdf)
