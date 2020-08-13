@@ -3,7 +3,7 @@ layout: default
 title: Location
 ---
 
-# Location
+# Location <img width="33" height="14" src="/images/title-flourish.png"/>
 
 **Cinnamon Square**, **Cinnamon on the Hill**, and the **Cinnamon Square town homes** are located coveniently on the east side of Springfield, Missouri near several major trafficways, grocery and retail stores, restaurants, and other amenities.  The Springfield Public Schools zone includes Hickory Hills, Wilder, and Pershing elementary schools, Hickory Hills and Pershing middle schools, and Glendale High School.
 

@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# About
+# About <img width="33" height="14" src="/images/title-flourish.png"/>
 
 ## Neighborhood Description
 

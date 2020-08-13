@@ -3,13 +3,13 @@ layout: default
 title: News
 ---
 
-# News
+# News <img width="33" height="14" src="/images/title-flourish.png"/>
 
 ## Board Meetings
 
 Board meetings are usually the second Tuesday of the month at 5:30pm at the pool house.
 
-Please note that due to the ongoing COVID-19 pandemic, some of our board meetings may be held over Zoom.
+Please note that due to the ongoing COVID-19 pandemic, some of our board meetings may be held over Zoom, either entirely or in part.
 
 ## Announcements
 

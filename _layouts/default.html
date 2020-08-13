@@ -43,21 +43,19 @@
                   <!-- Google CSE Search Box Ends -->
                </form>
             </div>
-
+            {% assign current = page.url | downcase | split: '/' %}
             <ul id="nav">
                <li><a href="/" title="Home" class="home">Home</a></li>
-               <li><a href="/about" title="About CSPOA" class="about">About</a></li>
-               <li><a href="/location" title="Where are we located?" class="location">Location</a></li>
-               <li><a href="/news" title="News" class="news">News</a></li>
-               <li><a href="/photos" title="Photos" class="photos">Photos</a></li>
-               <li><a href="/discussions" title="Join a discussion" class="discussions">Discussions</a></li>
+               <li><a href="/about" title="About CSPOA" {% if current[1] == 'about' %}class="current"{% endif %}>About</a></li>
+               <li><a href="/location" title="Where are we located?" {% if current[1] == 'location' %}class="current"{% endif %}>Location</a></li>
+               <li><a href="/news" title="News" {% if current[1] == 'news' %}class="current"{% endif %}>News</a></li>
+               <li><a href="/discussions" title="Join a discussion" {% if current[1] == 'discussions' %}class="current"{% endif %}>Discussions</a></li>
             </ul>
 
          </div>
          <!--END .inner-wrap-->
       </div>
       <!--END #header-->
-
       <div id="interior_page">
          <div class="inner-wrap">
 
