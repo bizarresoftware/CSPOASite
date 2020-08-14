@@ -28,11 +28,18 @@ Board documents:
 
 The CSPOA Board consists of the following members:
 
-* Jared Alexander -- President
-* Lisa Conover -- Vice President
-* Jennifer Montgomery -- Secretary
-* Rachel Barnes -- Treasurer
-* Martha Cordonnier -- Bookkeeper (not on Board)
+* Joe Daues -- President
+* Chris Weiss -- Vice President
+* Will Crites -- Secretary
+* Jim Hodge -- Treasurer
+* Morgan Odell -- Bookkeeper (not on Board)
+* Rachel Barnes
+* John Travers
+* Nicole Smith
+* Lori Enyart
+* Joanne Hawkins
+* Mary Jean Wilson
+* Rod Whitlock
 
 ## Covenant
 The CSPOA Covenant includes the information regarding how the neighborhoods are governed.  The full version currently exists only in paper format. Below is a summary version. Please note that summary is a brief overview of the covenants and is only intended for quick review by current residents and/or potential new residents.
