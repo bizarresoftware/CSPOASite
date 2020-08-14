@@ -554,5 +554,6 @@ div.under_flourish {
 
 .socialmedia li {	
     float: left;
-    margin-right: 50px;
+	margin-right: 0px;
+	margin-left: 20px;
 }

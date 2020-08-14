@@ -13,7 +13,7 @@ Please note that due to the ongoing COVID-19 pandemic, some of our board meeting
 
 ## Announcements
 
-* Pool Wristband Request Form
+* [Pool Wristband Request Form](/files/CSPOA_2015_Pool_Wristband.pdf)
 * Yard Waste Pickup is available via David Cron - 229-5130 or [cronpost@gmail.com](mailto:cronpost@gmail.com)
 
 ## Newsletters
