@@ -41,14 +41,12 @@ The CSPOA Board consists of the following members:
 * Mary Jean Wilson
 * Rod Whitlock
 
-## Covenant
-The CSPOA Covenant includes the information regarding how the neighborhoods are governed.  The full version currently exists only in paper format. Below is a summary version. Please note that summary is a brief overview of the covenants and is only intended for quick review by current residents and/or potential new residents.
+## Declarations and Bylaws
+The CSPOA Covenant includes the information regarding how the neighborhoods are governed.
 
-[Summary of Declaration](/files/SummaryOfDeclaration.pdf)
+[Summary of Declaration](/files/SummaryOfDeclaration.pdf) - a brief overview of the covenants and is only intended for quick review by current residents and/or potential new residents.
 
-[Entire Declaration](/files/CSPOA_Covenants_with_2008_Amendments.pdf) (bylaws, articles of incorporation, restrictions and covenants)
-
-For a copy of the full paper version, please send an email request to [cspoabkpr@gmail.com](mailto:cspoabkpr@gmail.com).
+[Entire Declaration](/files/CSPOA_Covenants_with_2008_Amendments.pdf) - ammended bylaws, articles of incorporation, restrictions and covenants.
 
 ## Forms
 

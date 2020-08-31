@@ -41,7 +41,7 @@ title: Home
                 <li><a href="/about#amenities">Amenities</a></li>
                 <li><a href="/faq">FAQ's</a></li>
                 <li><a href="/about#forms">Forms</a></li>
-                <li><a href="mailto:cspoabkpr@gmail.com">Contact Us</a></li>
+                <li><a href="/contact">Contact Us</a></li>
                 <li><a href="http://www.springfieldchamber.com/" target="_blank">Springfield Chamber of Commerce</a></li>
                 <li><a href="http://springfieldpublicschoolsmo.org/" target="_blank">Springfield Public Schools</a></li>
             </ul>

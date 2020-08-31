@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Discussions
+title: Contact
 ---
 
-# Discussions <img width="33" height="14" src="/images/title-flourish.png"/>
+# Contact Information <img width="33" height="14" src="/images/title-flourish.png"/>
 
 For communication and announcements, CSPOA neighbors use three main forms of contact:
 
