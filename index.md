@@ -37,7 +37,7 @@ title: Home
             <h3><i class="fa fa-users"></i> Your Community</h3>
             <ul>
                 <li><a href="/about#the-board">Board of Directors</a></li>
-                <li><a href="/about#covenant">Covenant</a></li>
+                <li><a href="/about#declarations-and-bylaws">Declarations and Bylaws</a></li>
                 <li><a href="/about#amenities">Amenities</a></li>
                 <li><a href="/faq">FAQ's</a></li>
                 <li><a href="/about#forms">Forms</a></li>
