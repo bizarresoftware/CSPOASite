@@ -15,7 +15,7 @@ CSPOA membership includes the following benefits:
 * use of park and common areas (several locations)
 * use tennis courts (two locations)
 * use of pool
-* availability of pool and clubhouse for private rental
+* availability of pool and clubhouse for rental
 * private security patrol of neighborhood on Halloween night
 * [streets snow plowed](http://cosmo.maps.arcgis.com/apps/Viewer/index.html?appid=25789b841bc74c6aae21d54f3d767211)
 * trash pickup

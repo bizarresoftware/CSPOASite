@@ -5,8 +5,11 @@ title: Frequently Asked Questions
 
 # Frequently Asked Questions <img width="33" height="14" src="/images/title-flourish.png"/>
 
+## What is PayHOA?
+PayHOA is a service that CSPOA uses to help us facilitate many aspects of the association.  You can use it to pay your dues, request pool parties, and submit architectural forms and other general inquiries.  Check it out at [https://app.payhoa.com/auth/join/7616-cinnamon-square](https://app.payhoa.com/auth/join/7616-cinnamon-square)!
+
 ## What is the association fee and what does it include?
-The CSPOA association annual fee is $462 for Cinnamon Square, Cinnamon on the Hill, and the Cinnamon Townhomes. Residents benefit from the association dues with trash pickup (once a week), recycling, use of park, tennis courts, and pool, availability of pool and clubhouse for private rental, private security patrol of neighborhood on Halloween night, and streets snow plowed, among other amenities.
+The CSPOA association annual fee is $508 for Cinnamon Square, Cinnamon on the Hill, and the Cinnamon Townhomes. Residents benefit from the association dues with trash pickup (once a week), recycling, use of park, tennis courts, and pool, availability of pool and clubhouse for rental, private security patrol of neighborhood on Halloween night, and streets snow plowed, among other amenities.
 
 ## What fees are associated with the townhomes?
 In addition to the CSPOA dues, the townhomes have additional dues and insurance payments.
@@ -22,8 +25,8 @@ Failure to pay dues, insurance and/or assessments can result in late charges, at
 ## Who are the Board members, and what experience do they have?
 Our Board members have significant experience in numerous professions, including finance and accounting, planning, design, development, public service, law, information technology, marketing, and association management. For a current list of Board members and their experience, please visit the <a href="about.asp#theboard">About page</a>.
 
-## How do I schedule my trash and recycling pickup?
-CSPOA has contracted for trash and recycling pickup. Trash is picked up on Monday, with exceptions over holidays.  Recycling is collected on Monday. For a free recycling tub and/or a trash container for a minimal monthly fee, contact WCA Waste Corporation at (417) 831-3195.
+## When is trash and recycling pickup?
+Trash and recycling pick up is Tuesday morning. Glass is not part of our recycling program. You can recycle your glass at the Lone Pine Recycling Center at 3020 S Lone Pine Ave. Please take your bins in as soon as possible once they have been picked up
 
 ## How do I obtain a neighborhood covenant?
 The CSPOA Covenant includes the information regarding how the neighborhoods are governed.  The full version currently exists only in paper format. A summary version is available on the <a href="about.asp#covenant">About page</a> of this website in PDF format. For a copy of the full paper version, please contact a member of the board, listed on the <a href="about.asp#theboard">About page</a>.
@@ -32,7 +35,7 @@ The CSPOA Covenant includes the information regarding how the neighborhoods are 
 TBA
 
 ## Does the neighborhood have a directory (where do I get one)?
-Yes. A directory is created each year. Information from residents is collected at the beginning of each calendar year and the directory is completed later winter/early spring. The directory includes family names and numbers, sorted alphabetical both by last name and street address. It also includes recreational facility rules, pool and patio rules, pool party information, and swim team and lesson details. To obtain a directory, please email <a href="mailto:cspoabkpr@gmail.com">cspoabkpr@gmail.com</a>.
+Yes. A directory is created each year. Information from residents is collected at the beginning of each calendar year and the directory is completed later winter/early spring. The directory includes family names and numbers, sorted alphabetical both by last name and street address. It also includes recreational facility rules, pool and patio rules, pool party information, and swim team and lesson details. To obtain an electronic copy of the directory, please email <a href="mailto:cspoabkpr@gmail.com">cspoabkpr@gmail.com</a>.
 
 ## When does the CSPOA Board meet?
 The Board usually meets monthly on every second Tuesday of the month. Most meetings are held at the pool clubhouse.

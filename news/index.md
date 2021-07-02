@@ -13,16 +13,18 @@ Please note that due to the ongoing COVID-19 pandemic, some of our board meeting
 
 ## Announcements
 
-* [Pool Wristband Request Form](/files/CSPOA_2015_Pool_Wristband.pdf)
+* [Pool and Patio Rules](/files/PoolAndPatioRules2021.pdf)
+* [Pool Waiver and Release](/files/ResidentWaiverAndRelease_Covid-19.pdf)
 * Yard Waste Pickup is available via David Cron - 229-5130 or [cronpost@gmail.com](mailto:cronpost@gmail.com)
 
 ## Newsletters
 
 CSPOA distributes monthly newsletters announcing neighborhood news and events.  If you would like to receive them via email, please reach out to [cspoabkpr@gmail.com](mailto:cspoabkpr@gmail.com) to get on the list.  Some of our more recent newsletters are listed below:
 
-* [August 2020](/files/Newsletter202008.pdf)
-* [June 2020](/files/Newsletter202006.pdf)
-* [May 2020](/files/Newsletter202005.pdf)
+* [July 2021](/files/Newsletter202107.pdf)
+* [June 2021](/files/Newsletter202106.pdf)
+* [May 2021](/files/Newsletter202105.pdf)
+* [April 2021](/files/Newsletter202104.pdf)
 
 ## CSPOA Lead Survey Results
 
