@@ -28,18 +28,15 @@ Board documents:
 
 The CSPOA Board consists of the following members:
 
-* Joe Daues -- President
-* Chris Weiss -- Vice President
-* Will Crites -- Secretary
-* Jim Hodge -- Treasurer
+* Chris Weiss -- President
+* Matthew Brunner -- Vice President
+* Nathan Allen -- Secretary
+* John Travers -- Ground Committee Head
+* Nicole Smith -- Pool Committee Head
+* Rod Whitlock -- Architectural Committee Head
+* Paris Chernesky
+* Betty Hales
 * Morgan Odell -- Bookkeeper (not on Board)
-* Rachel Barnes
-* John Travers
-* Nicole Smith
-* Lori Enyart
-* Joanne Hawkins
-* Mary Jean Wilson
-* Rod Whitlock
 
 ## Declarations and Bylaws
 The CSPOA Covenant includes the information regarding how the neighborhoods are governed.
