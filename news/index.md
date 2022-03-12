@@ -21,10 +21,10 @@ Please note that due to the ongoing COVID-19 pandemic, some of our board meeting
 
 CSPOA distributes monthly newsletters announcing neighborhood news and events.  If you would like to receive them via email, please reach out to [cspoabkpr@gmail.com](mailto:cspoabkpr@gmail.com) to get on the list.  Some of our more recent newsletters are listed below:
 
-* [July 2021](/files/Newsletter202107.pdf)
-* [June 2021](/files/Newsletter202106.pdf)
-* [May 2021](/files/Newsletter202105.pdf)
-* [April 2021](/files/Newsletter202104.pdf)
+* [February 2022](/files/Newsletter202202.pdf)
+* [January 2022](/files/Newsletter202201.pdf)
+* [December 2021](/files/Newsletter202112.pdf)
+* [November 2021](/files/Newsletter202111.pdf)
 
 ## CSPOA Lead Survey Results
 

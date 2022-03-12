@@ -31,10 +31,10 @@ The CSPOA Board consists of the following members:
 * Chris Weiss -- President
 * Matthew Brunner -- Vice President
 * Nathan Allen -- Secretary
+* Paris Chernesky -- Treasurer
 * John Travers -- Ground Committee Head
 * Nicole Smith -- Pool Committee Head
 * Rod Whitlock -- Architectural Committee Head
-* Paris Chernesky
 * Betty Hales
 * Morgan Odell -- Bookkeeper (not on Board)
 
