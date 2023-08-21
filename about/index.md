@@ -7,19 +7,22 @@ title: About
 
 ## Neighborhood Description
 
-Cinnamon Square Property Owners Association (CSPOA) includes the communities of Cinnamon Square, Cinnamon on the Hill, and Cinnamon Townhomes.  Nestled on the east side of Springfield, Missouri, CSPOA is conveniently located near several major trafficways and many shops and restaurants.  CSPOA also takes great care of its community by particpation in the City of Springfield's [Active Neighborhood Watch program](http://www.springfieldmo.gov/172/Crime-Prevention). View the [location page](/location) for more information and an interactive map.
+Cinnamon Square Property Owners Association (CSPOA) includes the communities of Cinnamon Square, Cinnamon on the Hill, and Cinnamon Townhomes.  Nestled on the east side of Springfield, Missouri, CSPOA is conveniently located near several major trafficways and many shops and restaurants.  CSPOA also takes great care of its community by participation in the City of Springfield's [Active Neighborhood Watch program](http://www.springfieldmo.gov/172/Crime-Prevention). View the [location page](/location) for more information and an interactive map.
 
 ## Amenities
-CSPOA membership includes the following benefits:
+CSPOA neighborhood-wide amenities include the following benefits:
 
-* use of park and common areas (several locations)
+* use of playground and basketball courts
+* many common areas
 * use tennis courts (two locations)
-* use of pool
+* use of the pool
 * availability of pool and clubhouse for rental
-* private security patrol of neighborhood on Halloween night
-* [streets snow plowed](http://cosmo.maps.arcgis.com/apps/Viewer/index.html?appid=25789b841bc74c6aae21d54f3d767211)
-* trash pickup
-* recycling
+* weekly trash and recycling pickup
+
+CSPOA Townhomes amenities include the following benefits:
+* all of the neighborhood-wide amenities listed above
+* snow removal and ice melt application when needed
+
 
 ## The Board
 Board documents:
@@ -28,22 +31,29 @@ Board documents:
 
 The CSPOA Board consists of the following members:
 
-* Chris Weiss -- President
-* Matthew Brunner -- Vice President
-* Nathan Allen -- Secretary
-* Paris Chernesky -- Treasurer
-* John Travers -- Ground Committee Head
-* Nicole Smith -- Pool Committee Head
-* Rod Whitlock -- Architectural Committee Head
-* Betty Hales
-* Morgan Odell -- Bookkeeper (not on Board)
+* Chris Weiss; Cinnamon on the Hill -- President
+* Matthew Brunner; Cinnamon Square -- Vice President
+* Nathan Allen; Cinnamon Square -- Secretary & Architectural Committee Head
+* Paris Chernesky; Cinnamon on the Hill -- Treasurer
+* John Travers; Cinnamon Square -- Ground Committee Head
+* Nicole Smith; Cinnamon Square -- Pool Committee Head
+* Matthew Parrish; Cinnamon Square
+* Jeff Stratton; Townhomes
+* Craig Wagoner; Townhomes
+* Will Tullos; Townhomes
+* Jamea Crum; Townhomes
+* Nathan Branham; Cinnamon Square
+* Joel Slingerland; Cinnamon Square
+* Morgan Odell -- Bookkeeper (not a Board member)
 
 ## Declarations and Bylaws
-The CSPOA Covenant includes the information regarding how the neighborhoods are governed.
+The CSPOA Covenant includes information regarding how the neighborhoods are governed.
 
 [Summary of Declaration](/files/SummaryOfDeclaration.pdf) - a brief overview of the covenants and is only intended for quick review by current residents and/or potential new residents.
 
-[Entire Declaration](/files/CSPOA_Covenants_with_2008_Amendments.pdf) - ammended bylaws, articles of incorporation, restrictions and covenants.
+[Entire Declaration](/files/CSPOA_Covenants_with_2008_Amendments.pdf) - amended bylaws, articles of incorporation, restrictions, and covenants.
+
+[Ammended Declaration](/files/CSPOA_Covenants_with_2021_Amendments.pdf) - amended November 2021 bylaws, articles of incorporation, restrictions, and covenants.
 
 ## Forms
 
