@@ -23,7 +23,6 @@ CSPOA Townhomes amenities include the following benefits:
 * all of the neighborhood-wide amenities listed above
 * snow removal and ice melt application when needed
 
-
 ## The Board
 Board documents:
 
@@ -46,6 +45,19 @@ The CSPOA Board consists of the following members:
 * Joel Slingerland; Cinnamon Square
 * Morgan Odell -- Bookkeeper (not a Board member)
 
+The Townhomes Committee consists of the following members:
+
+* Dan Johnson -- Committee Chairman
+*  -- Committee Vice Chairman
+*  Jillian Slack  -- Committee Secretary
+*  Danna Heartly
+*  Karen Snelling
+*  Mark Yost
+*  Jim McManigle
+*  Nancy Alley
+*  Jeff Stratton
+*  Craig Wagoner
+
 ## Declarations and Bylaws
 The CSPOA Covenant includes information regarding how the neighborhoods are governed.
 
@@ -53,7 +65,7 @@ The CSPOA Covenant includes information regarding how the neighborhoods are gove
 
 [Entire Declaration](/files/CSPOA_Covenants_with_2008_Amendments.pdf) - amended bylaws, articles of incorporation, restrictions, and covenants.
 
-[Ammended Declaration](/files/CSPOA_Covenants_with_2021_Amendments.pdf) - amended November 2021 bylaws, articles of incorporation, restrictions, and covenants.
+[Amended Declaration](/files/CSPOA_Covenants_with_2021_Amendments.pdf) - amended November 2021 bylaws, articles of incorporation, restrictions, and covenants.
 
 ## Forms
 
