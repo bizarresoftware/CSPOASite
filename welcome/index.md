@@ -11,6 +11,6 @@ If you'd like to see common questions and answers about  the neighborhood or the
 
 To stay on top of the latest happenings, take a look at the [News](/news) page.
 
-Be sure to review the [neighborhood covenant](/about/#covenant) on the About page.
+Be sure to review the [neighborhood covenant](/about/#declarations-and-bylaws) on the About page.
 
 Please also contact a member of the [Board](/about/#the-board) if you have any questions or need help in your transition to your new neighborhood and home.
