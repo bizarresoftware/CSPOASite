@@ -31,7 +31,7 @@ title: Home
     <div class="inner-wrap">
         <div class="col1">
             <h3><i class="fa fa-home"></i> The Neighborhood</h3>
-            <p>CSPOA includes the communities of <strong>Cinnamon Square</strong>, <strong>Cinnamon on the Hill</strong>, and <strong>Cinnamon Townhomes</strong>. Nestled on the east side of Springfield, Missouri, CSPOA is conveniently located near sevearal major trafficways and many shops and restaurants. CSPOA also takes great care of its community by particpation in the City of Springfield&acute;s <a class="external" href="http://www.springfieldmo.gov/172/Crime-Prevention" target="_blank">Active Neighborhood Watch program</a>.</p>
+            <p>CSPOA includes the communities of <strong>Cinnamon Square</strong>, <strong>Cinnamon on the Hill</strong>, and <strong>Cinnamon Townhomes</strong>. Nestled on the east side of Springfield, Missouri, CSPOA is conveniently located near several major traffic ways and many shops and restaurants. CSPOA also takes great care of its community by participating in the City of Springfield's <a class="external" href="http://www.springfieldmo.gov/172/Crime-Prevention" target="_blank">Active Neighborhood Watch program</a>.</p>
         </div>
         <div class="col2">
             <h3><i class="fa fa-users"></i> Your Community</h3>
@@ -43,7 +43,7 @@ title: Home
                 <li><a href="/about#forms">Forms</a></li>
                 <li><a href="/contact">Contact Us</a></li>
                 <li><a href="http://www.springfieldchamber.com/" target="_blank">Springfield Chamber of Commerce</a></li>
-                <li><a href="http://springfieldpublicschoolsmo.org/" target="_blank">Springfield Public Schools</a></li>
+                <li><a href="https://www.sps.org/" target="_blank">Springfield Public Schools</a></li>
             </ul>
         </div>
         <div class="col3">
