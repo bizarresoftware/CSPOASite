@@ -11,6 +11,8 @@ PayHOA is a service that CSPOA uses to help us facilitate many aspects of the as
 ## How much are the Association dues and what do they include?
 The CSPOA annual dues are $508 for Cinnamon Square, Cinnamon on the Hill, and the Cinnamon Townhomes. Dues fund the following amenities: trash and recycling pickup, use of the playground, tennis courts, pool, and clubhouse party space for use, among other amenities.
 
+The bylaws also allow for additional assessments. The most recent Association assessment was for pool replacement and was paid in 2022, and 2023, and will be paid in 2024, 2025, and 2026.
+
 ## What dues are Associated with the Townhomes?
 In addition to the CSPOA dues, the Townhomes have additional dues and insurance payments.
 
@@ -21,10 +23,10 @@ Each Townhome owner also pays an insurance premium that covers the replacement o
 The bylaws also allow for additional assessments. The most recent townhome assessment was for roof replacement and was paid in 2015 and 2016.
 
 ## What happens if I do not pay my dues, insurance, and/or assessments?
-Dues, insurance, and/or assessments can result in late charges, attorneys fees, and/or a lien being placed on the property.
+Nonpayment of dues, insurance, and/or assessments can result in late charges, attorneys fees, and/or a lien being placed on the property.
 
 ## Who are the board members, and what experience do they have?
-Our Board members have significant experience in numerous professions, including finance and accounting, planning, design, development, public service, law, information technology, marketing, and association management. For a current list of Board members and their experience, please visit the <a href="about.asp#theboard">About page</a>.
+Our Board members have experience in multiple professions, including finance and accounting, planning, design, development, public service, law, information technology, marketing, and association management. For a current list of Board members and their experience, please visit the <a href="/about" title="About CSPOA">About page</a>.
 
 ## When are trash and recycling pickup?
 Trash and recycling pick up is Tuesday morning. Glass is not part of our recycling program. You can recycle your glass at the Lone Pine Recycling Center at 3020 S Lone Pine Ave. Please take your bins in as soon as possible once they have been picked up
