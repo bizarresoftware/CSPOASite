@@ -13,7 +13,7 @@ The CSPOA annual dues are $508 for Cinnamon Square, Cinnamon on the Hill, and th
 
 The bylaws also allow for additional assessments. The most recent Association assessment was for pool replacement and was paid in 2022, and 2023, and will be paid in 2024, 2025, and 2026.
 
-## What dues are Associated with the Townhomes?
+## What dues are associated with the Townhomes?
 In addition to the CSPOA dues, the Townhomes have additional dues and insurance payments.
 
 Townhome 2022 annual dues are $2805 paid as an annual lump sum. This covers a property manager, Townhome common area grounds/lawn care, snow removal from drives, common drive maintenance, and limited exterior maintenance as indicated in the Association by-laws. Each unit is owned, so maintenance is limited and is NOT like an apartment or condo unit where all maintenance is covered by the Association. The Association takes care of bigger items like roofing, siding, etc.
@@ -25,29 +25,29 @@ The bylaws also allow for additional assessments. The most recent townhome asses
 ## What happens if I do not pay my dues, insurance, and/or assessments?
 Nonpayment of dues, insurance, and/or assessments can result in late charges, attorneys fees, and/or a lien being placed on the property.
 
-## Who are the board members, and what experience do they have?
-Our Board members have experience in multiple professions, including finance and accounting, planning, design, development, public service, law, information technology, marketing, and association management. For a current list of Board members and their experience, please visit the <a href="/about" title="About CSPOA">About page</a>.
+## Who are the Board members, and what experience do they have?
+Our Board members have experience in multiple professions, including finance and accounting, planning, design, development, public service, law, information technology, marketing, and association management. For a current list of Board members and their experience, please visit the <a href="/about/#the-board" title="About CSPOA">About page</a>.
 
 ## When are trash and recycling pickup?
 Trash and recycling pick up is Tuesday morning. Glass is not part of our recycling program. You can recycle your glass at the Lone Pine Recycling Center at 3020 S Lone Pine Ave. Please take your bins in as soon as possible once they have been picked up
 
-## How do I obtain a neighborhood covenant?
-The CSPOA Covenant includes information regarding how the neighborhoods are governed.  The full version currently exists only in paper format. A summary version is available on the <a href="about.asp#covenant">About page</a> of this website in PDF format. For a copy of the full paper version, please contact a member of the board, listed on the <a href="about.asp#theboard">About page</a>.
+## How do I obtain a neighborhood Covenant?
+The CSPOA Covenant includes information regarding how the neighborhoods are governed.  The full version currently exists only in paper format. A summary version is available on the <a href="/about/#declarations-and-bylaws" title="About CSPOA">About page</a> of this website in PDF format. For a copy of the full paper version, please contact a member of the board, listed on the <a href="/about/#the-board" title="About CSPOA">About page</a>.
 
 ## What are the pool hours?
-TBA
+This information is available upon request. <a href="/contact" title="Contact CSPOA">Contact Us</a>
 
-## Does the neighborhood have a directory (where do I get one)?
+## Does the neighborhood have a directory and where do I get one?
 Yes. A directory is created each year. Information from residents is collected at the beginning of each calendar year and the directory is completed later winter/early spring. The directory includes family names and numbers, sorted alphabetically both by last name and street address. It also includes recreational facility rules, pool and patio rules, pool party information, and swim team and lesson details. To obtain an electronic copy of the directory, please email <a href="mailto:cspoabkpr@gmail.com">cspoabkpr@gmail.com</a>.
 
-## When does the CSPOA board meet?
+## When does the CSPOA Board meet?
 The Board usually meets monthly on every second Tuesday of the month. Most meetings are held at the pool clubhouse.
 
 ## When does the Townhome Committee meet?
 The Townhome Committee meets monthly, scheduled for the third Monday of the month. Most meetings are held at the clubhouse. For confirmation of the time and location, contact <a href="mailto:cinnamontownhomes@gmail.com">cinnamontownhomes@gmail.com</a>.
 
 ## How do I keep up with the latest news of the neighborhood?
-There are a couple of ways to stay updated. First, you should be receiving a monthly email newsletter. If not, please contact <a href="mailto:cspoabkpr@gmail.com" >cspoabkpr@gmail.com</a>. Also, monthly newsletters are archived on the <a href="news.asp">News page</a>, so that you may review previous news items.
+There are a couple of ways to stay updated: our monthly email newsletter and our Facebook group. If you are not receiving the newsletter and would like to, please contact <a href="mailto:cspoabkpr@gmail.com" >cspoabkpr@gmail.com</a>.
 
 ## Do you have a question and/or answer that is not included on this page?
 Please email your question/answer to <a href="mailto:cspoabkpr@gmail.com">cspoabkpr@gmail.com</a> and we'll review it, respond accordingly, and add it to the website (if appropriate).
