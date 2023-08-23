@@ -47,16 +47,15 @@ The CSPOA Board consists of the following members:
 
 The Townhomes Committee consists of the following members:
 
-* Dan Johnson -- Committee Chairman
-*  -- Committee Vice Chairman
-*  Jillian Slack  -- Committee Secretary
-*  Danna Heartly
-*  Karen Snelling
-*  Mark Yost
-*  Jim McManigle
-*  Nancy Alley
-*  Jeff Stratton
-*  Craig Wagoner
+* Craig Wagoner -- Committee Chairman
+* TBD -- Committee Vice Chairman
+* Jillian Slack  -- Committee Secretary
+* Danna Heartly
+* Karen Snelling
+* Mark Yost
+* Nancy Alley
+* Jeff Stratton
+* Dan Johnson
 
 ## Declarations and Bylaws
 The CSPOA Covenant includes information regarding how the neighborhoods are governed.
