@@ -7,24 +7,15 @@ title: News
 
 ## Board Meetings
 
-Board meetings are usually the second Tuesday of the month at 5:30pm at the pool house.
-
-Please note that due to the ongoing COVID-19 pandemic, some of our board meetings may be held over Zoom, either entirely or in part.
+Board meetings are usually on the second Tuesday of the month at the pool house.
 
 ## Announcements
 
-* [Pool and Patio Rules](/files/PoolAndPatioRules2021.pdf)
-* [Pool Waiver and Release](/files/ResidentWaiverAndRelease_Covid-19.pdf)
-* Yard Waste Pickup is available via David Cron - 229-5130 or [cronpost@gmail.com](mailto:cronpost@gmail.com)
+* Yard Waste Pickup is available via David Cron - 417-229-5130 or [cronpost@gmail.com](mailto:cronpost@gmail.com)
 
 ## Newsletters
 
-CSPOA distributes monthly newsletters announcing neighborhood news and events.  If you would like to receive them via email, please reach out to [cspoabkpr@gmail.com](mailto:cspoabkpr@gmail.com) to get on the list.  Some of our more recent newsletters are listed below:
-
-* [February 2022](/files/Newsletter202202.pdf)
-* [January 2022](/files/Newsletter202201.pdf)
-* [December 2021](/files/Newsletter202112.pdf)
-* [November 2021](/files/Newsletter202111.pdf)
+CSPOA distributes monthly newsletters announcing neighborhood news and events.  If you would like to receive them via email, please reach out to [cspoabkpr@gmail.com](mailto:cspoabkpr@gmail.com) to get on the list.
 
 ## CSPOA Lead Survey Results
 
