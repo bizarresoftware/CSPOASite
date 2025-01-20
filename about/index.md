@@ -31,31 +31,26 @@ Board documents:
 The CSPOA Board consists of the following members:
 
 * Chris Weiss; Cinnamon on the Hill -- President
-* Matthew Brunner; Cinnamon Square -- Vice President
 * Nathan Allen; Cinnamon Square -- Secretary & Architectural Committee Head
 * Paris Chernesky; Cinnamon on the Hill -- Treasurer
 * John Travers; Cinnamon Square -- Ground Committee Head
-* Nicole Smith; Cinnamon Square -- Pool Committee Head
-* Matthew Parrish; Cinnamon Square
+* Travis Grider; Cinnamon Square
 * Jeff Stratton; Townhomes
-* Craig Wagoner; Townhomes
 * Will Tullos; Townhomes
 * Jamea Crum; Townhomes
-* Nathan Branham; Cinnamon Square
-* Joel Slingerland; Cinnamon Square
+* Nicole Smith -- Pool Committee Head (not a Board member)
 * Morgan Odell -- Bookkeeper (not a Board member)
 
 The Townhomes Committee consists of the following members:
 
-* Craig Wagoner -- Committee Chairman
+* Nancy Alley -- Committee Chairman
 * TBD -- Committee Vice Chairman
-* Jillian Slack  -- Committee Secretary
+* Kathleen Hains -- Committee Secretary
 * Danna Heartly
-* Karen Snelling
-* Mark Yost
-* Nancy Alley
 * Jeff Stratton
 * Dan Johnson
+* Kyle Walker
+* Mark Yost -- Property Manager (not a Committee member)
 
 ## Declarations and Bylaws
 The CSPOA Covenant includes information regarding how the neighborhoods are governed.
