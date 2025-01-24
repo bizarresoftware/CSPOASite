@@ -9,21 +9,21 @@ title: Frequently Asked Questions
 PayHOA is a service that CSPOA uses to help us facilitate many aspects of the association.  You can use it to pay your dues, request pool parties, submit architectural forms, and request Townhome maintenance, plus other general inquiries.  Check it out at [https://app.payhoa.com/auth/join/7616-cinnamon-square](https://app.payhoa.com/auth/join/7616-cinnamon-square)!
 
 ## How much are the Association dues and what do they include?
-The CSPOA annual dues are $508 for Cinnamon Square, Cinnamon on the Hill, and the Cinnamon Townhomes. Dues fund the following amenities: trash and recycling pickup, use of the playground, tennis courts, pool, and clubhouse party space for use, among other amenities.
+The CSPOA annual dues are $585 for Cinnamon Square, Cinnamon on the Hill, and the Cinnamon Townhomes. Dues fund the following amenities: trash and recycling pickup, use of the playground, tennis courts, pool, and clubhouse party space for use, among other amenities.
 
-The bylaws also allow for additional assessments. The most recent Association assessment was for pool replacement and was paid in 2022, and 2023, and will be paid in 2024, 2025, and 2026.
+The bylaws also allow for additional assessments. The most recent Association assessment was for pool replacement and was paid in 2022, 2023, and 2024 and will be paid in 2025, and 2026.
 
 ## What dues are associated with the Townhomes?
 In addition to the CSPOA dues, the Townhomes have additional dues and insurance payments.
 
-Townhome 2022 annual dues are $2805 paid as an annual lump sum. This covers a property manager, Townhome common area grounds/lawn care, snow removal from drives, common drive maintenance, and limited exterior maintenance as indicated in the Association by-laws. Each unit is owned, so maintenance is limited and is NOT like an apartment or condo unit where all maintenance is covered by the Association. The Association takes care of bigger items like roofing, siding, etc.
+Townhome annual dues are $3085 paid as an annual lump sum. This covers a property manager, Townhome common area grounds/lawn care, snow removal from drives, common drive maintenance, and limited exterior maintenance as indicated in the Association by-laws. Each unit is owned, so maintenance is limited and is NOT like an apartment or condo unit where all maintenance is covered by the Association. The Association takes care of bigger items like roofing, siding, etc.
 
-Each Townhome owner also pays an insurance premium that covers the replacement of the unit to the original construction. The amount varies yearly and is based on the square footage of the unit and the annual premium. In 2022 this ranged from approximately $900 to $3000 depending on the unit size. The Townhome owners are responsible for insurance deductibles. Each Townhome owner is encouraged to carry their own additional insurance policy to cover any interior upgrades and contents, as this is not covered by the Association's Policy.
+Each Townhome owner also pays an insurance premium that covers the replacement of the unit to the original construction. The amount varies yearly and is based on the square footage of the unit and the annual premium. In 2025 this ranged from approximately $900 to $3000 depending on the unit size. The Townhome owners are responsible for insurance deductibles. Each Townhome owner is encouraged to carry their own additional insurance policy to cover any interior upgrades and contents, as this is not covered by the Association's Policy.
 
 The bylaws also allow for additional assessments. The most recent townhome assessment was for roof replacement and was paid in 2015 and 2016.
 
 ## What happens if I do not pay my dues, insurance, and/or assessments?
-Nonpayment of dues, insurance, and/or assessments can result in late charges, attorneys fees, and/or a lien being placed on the property.
+Nonpayment of dues, insurance, and/or assessments can result in interest charges, attorneys fees, and/or a lien being placed on the property.
 
 ## Who are the Board members, and what experience do they have?
 Our Board members have experience in multiple professions, including finance and accounting, planning, design, development, public service, law, information technology, marketing, and association management. For a current list of Board members and their experience, please visit the <a href="/about/#the-board" title="About CSPOA">About page</a>.
@@ -41,7 +41,7 @@ This information is available upon request. <a href="/contact" title="Contact CS
 Yes. A directory is created each year. Information from residents is collected at the beginning of each calendar year and the directory is completed later winter/early spring. The directory includes family names and numbers, sorted alphabetically both by last name and street address. It also includes recreational facility rules, pool and patio rules, pool party information, and swim team and lesson details. To obtain an electronic copy of the directory, please email <a href="mailto:cspoabkpr@gmail.com">cspoabkpr@gmail.com</a>.
 
 ## When does the CSPOA Board meet?
-The Board usually meets monthly on every second Tuesday of the month. Most meetings are held at the pool clubhouse.
+The Board usually meets monthly on every second Tuesday of the month. Most meetings are held at the pool clubhouse. For confirmation of the time and location, contact <a href="mailto:cspoabkpr@gmail.com" >cspoabkpr@gmail.com</a>.
 
 ## When does the Townhome Committee meet?
 The Townhome Committee meets monthly, scheduled for the third Monday of the month. Most meetings are held at the clubhouse. For confirmation of the time and location, contact <a href="mailto:cinnamontownhomes@gmail.com">cinnamontownhomes@gmail.com</a>.
