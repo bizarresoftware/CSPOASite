@@ -39,7 +39,7 @@ The CSPOA Board consists of the following members:
 * Will Tullos; Townhomes
 * Jamea Crum; Townhomes
 * Nicole Smith -- Pool Committee Head (not a Board member)
-* Morgan Odell -- Bookkeeper (not a Board member)
+* Morgan Odell --- Bookkeeper (not a Board member)
 
 The Townhomes Committee consists of the following members:
 
