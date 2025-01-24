@@ -18,7 +18,7 @@ In addition to the CSPOA dues, the Townhomes have additional dues and insurance 
 
 Townhome annual dues are $3085 paid as an annual lump sum. This covers a property manager, Townhome common area grounds/lawn care, snow removal from drives, common drive maintenance, and limited exterior maintenance as indicated in the Association by-laws. Each unit is owned, so maintenance is limited and is NOT like an apartment or condo unit where all maintenance is covered by the Association. The Association takes care of bigger items like roofing, siding, etc.
 
-Each Townhome owner also pays an insurance premium that covers the replacement of the unit to the original construction. The amount varies yearly and is based on the square footage of the unit and the annual premium. In 2025 this ranged from approximately $900 to $3000 depending on the unit size. The Townhome owners are responsible for insurance deductibles. Each Townhome owner is encouraged to carry their own additional insurance policy to cover any interior upgrades and contents, as this is not covered by the Association's Policy.
+Each Townhome owner also pays an insurance premium that covers the replacement of the unit to the original construction. The amount varies yearly and is based on the square footage of the unit and the annual premium. In 2024 this ranged from approximately $900 to $3000 depending on the unit size. The Townhome owners are responsible for insurance deductibles. Each Townhome owner is encouraged to carry their own additional insurance policy to cover any interior upgrades and contents, as this is not covered by the Association's Policy.
 
 The bylaws also allow for additional assessments. The most recent townhome assessment was for roof replacement and was paid in 2015 and 2016.
 
